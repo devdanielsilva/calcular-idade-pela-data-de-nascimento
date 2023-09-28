@@ -20,4 +20,4 @@ function getAge(dateString){
     }
     return age;
 }
-print(getAge("2000/09/13"));
+console.log(getAge("2000/09/13"));
